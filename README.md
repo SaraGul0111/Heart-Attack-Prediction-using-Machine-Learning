@@ -172,10 +172,11 @@ Click the **Open in Colab** badge at the top of this README to launch the notebo
 ## 📂 Repository Structure
 
 ```
-📦 Heart-Attack-Prediction
- ┣ 📓 Heart_Attack_Prediction.ipynb   # Main notebook
- ┣ 📄 heart.csv                       # Dataset
- ┗ 📄 README.md                       # Project documentation
+📦 Heart-Attack-Prediction using Machine learning
+     📦 Heart-Attack-Prediction using Machine learning
+      ┣ 📓 Heart_Attack_Prediction.ipynb   # Main notebook
+      ┣ 📄 heart.csv                       # Dataset
+README.md                       # Project documentation
 ```
 
 
